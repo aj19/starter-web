@@ -1,0 +1,8 @@
+UCS requires the following access permissions:
+
+Read permission for the Environment tenant and any other tenants configured in the UCS application.
+Full Control permission to the Category Structure and Screening Rules business attributes.
+To prevent overwriting of object permissions, you must apply permissions to higher-level objects first (for example, at the tenant level) before applying permissions to lower-level objects.
+
+Open Configuration Manager and refer to the steps below for more information.
+
